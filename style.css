@@ -1,7 +1,9 @@
 body {
-	font-family: Roboto, 'Noto Sans CJK JP', sans-serif;  
+  font-family: Roboto, 'Noto Sans CJK JP', sans-serif;
+  color: #333333;
 }
 code {
-	font-family: 'Roboto Mono', monospace;
- 	font-size: 1em;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1em;
+  background-color: #cccccc;
 }
