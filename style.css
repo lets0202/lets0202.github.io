@@ -8,6 +8,6 @@ code {
     font-family: monospace;
     font-size: 1em;
     padding: 2px 4px;
-    box-sizing: border-box;
+/*     box-sizing: border-box; */
     background: #eeeeee;
 }
