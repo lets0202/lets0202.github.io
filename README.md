@@ -1,3 +1,3 @@
 # xLetsu.github.io
 
-[xLetsu Fortnite Settings](https://xLetsu.github.io)
+[Link](https://xLetsu.github.io)
