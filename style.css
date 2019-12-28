@@ -1,11 +1,11 @@
 body {
-    font-family: Roboto,-apple-system,'Segoe UI','Noto Sans CJK JP','Hiragino Sans',Meiryo,sans-serif;
+    font-family: sans-serif;
     color: #333333;
     line-height: 1.75;
 }
 
 code {
-    font-family: 'Roboto Mono',Consolas,monospace;
+    font-family: monospace;
     font-size: 1em;
     padding: 2px 4px;
     box-sizing: border-box;
