@@ -2,6 +2,7 @@
 html {
     color: #333;
     font-family: Inter, 'Hiragino UD Sans F W4', sans-serif;
+    padding: 2em calc(50% - 457px + 2em);
 }
 h1, h2, h3, strong {
     font-family: Inter, 'Hiragino Kaku Gothic W7 JIS2004', sans-serif;
