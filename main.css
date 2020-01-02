@@ -1,13 +1,13 @@
 @import url('https://rsms.me/inter/inter.css');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 html {
-    font-family: Inter, 'UD Shin Go Regular', sans-serif;
+    font-family: Inter, 'Hiragino UD Sans F W4 JIS2004', sans-serif;
     padding: 2em calc(50% - 457px + 2em);
     color: #333;
     line-height: 1.5;
 }
 h1, h2, h3, strong {
-    font-family: Inter, 'UD Shin Go DemiBold', sans-serif;
+    font-family: Inter, 'Hiragino UD Sans F W6 JIS2004', sans-serif;
 }
 code {
     font-family: 'Roboto Mono', monospace;
