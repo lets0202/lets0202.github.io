@@ -1,6 +1,6 @@
 @import url('https://rsms.me/inter/inter.css');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
-@import url('/font.css');
+@import url('/font-otf.css');
 html {
     font-family: Inter, 'Hiragino Sans', sans-serif;
     padding: 2em calc(50% - 457px + 2em);
