@@ -1,45 +1,10 @@
 @font-face {
      font-family: 'Hiragino Sans';
-     font-weight: 100;
-     src: url("/font-files/Hiragino-Sans-W1.woff");
+     font-weight: normal;
+     src: url("/font-files/Hiragino-Sans-W4.woff") format("woff");
 }
 @font-face {
      font-family: 'Hiragino Sans';
-     font-weight: 200;
-     src: url("/font-files/Hiragino-Sans-W2.woff");
-}
-@font-face {
-     font-family: 'Hiragino Sans';
-     font-weight: 300;
-     src: url("/font-files/Hiragino-Sans-W3.woff");
-}
-@font-face {
-     font-family: 'Hiragino Sans';
-     font-weight: 400;
-     src: url("/font-files/Hiragino-Sans-W4.woff");
-}
-@font-face {
-     font-family: 'Hiragino Sans';
-     font-weight: 500;
-     src: url("/font-files/Hiragino-Sans-W5.woff");
-}
-@font-face {
-     font-family: 'Hiragino Sans';
-     font-weight: 600;
-     src: url("/font-files/Hiragino-Sans-W6.woff");
-}
-@font-face {
-     font-family: 'Hiragino Sans';
-     font-weight: 700;
-     src: url("/font-files/Hiragino-Sans-W7.woff");
-}
-@font-face {
-     font-family: 'Hiragino Sans';
-     font-weight: 800;
-     src: url("/font-files/Hiragino-Sans-W8.woff");
-}
-@font-face {
-     font-family: 'Hiragino Sans';
-     font-weight: 900;
-     src: url("/font-files/Hiragino-Sans-W9.woff");
+     font-weight: bold;
+     src: url("/font-files/Hiragino-Sans-W6.woff") format("woff");
 }
