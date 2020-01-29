@@ -1,21 +1,18 @@
-@import url('https://rsms.me/inter/inter.css');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
-@import url('/font.css');
 html {
-    font-family: Inter, 'Hiragino Sans', sans-serif;
+    font-family: sans-serif;
     padding: 2em calc(50% - 457px + 2em);
     color: #333;
     line-height: 1.5;
 }
 code {
-    font-family: 'Roboto Mono', monospace;
+    font-family: sans-serif;
     padding: .05em .3em;
     border-radius: .3em;
     background-color: #f0f0f0;
 }
 hr {
     height: 3px;
-    background-color: #399;
+    background-color: #036;
     border: none;
     margin-top: -1em;
 }
@@ -23,11 +20,11 @@ h1, .lang {
     text-align: center;
 }
 h1 {
-    font-size: 4em;
-    color: #399;
+    font-size: 3em;
+    color: #036;
 }
 li {
-    color: #666;
+    color: #036;
 }
 span {
     color: #333;
