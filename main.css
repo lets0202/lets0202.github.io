@@ -12,7 +12,7 @@ code {
 }
 hr {
     height: 3px;
-    background-color: #069;
+    background-color: #999;
     border: none;
     margin-top: -1em;
 }
@@ -21,10 +21,13 @@ h1, .lang {
 }
 h1 {
     font-size: 3em;
-    color: #069;
+    color: #09f;
+}
+h2 {
+    color: #09f
 }
 li {
-    color: #069;
+    color: #09f;
 }
 span {
     color: #333;
