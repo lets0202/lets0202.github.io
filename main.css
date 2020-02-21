@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Roboto|Roboto+Mono&display=swap');
 html {
-    font-family: sans-serif;
+    font-family: Roboto, 'Noto Sans JP', sans-serif;
     padding: 2em calc(50% - 457px + 2em);
     color: #333;
     line-height: 1.5;
 }
 code {
-    font-family: sans-serif;
+    font-family: Roboto Mono, monospace;
     padding: .05em .3em;
     border-radius: .3em;
     background-color: #f0f0f0;
