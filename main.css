@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto+Mono|Roboto:400,700&display=swap');
+@import url('https://rsms.me/inter/inter.css');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto+Mono&display=swap');
 html {
-    font-family: Roboto, 'Noto Sans JP', sans-serif;
+    font-family: Inter, 'Noto Sans JP', sans-serif;
     padding: 2em calc(50% - 457px + 2em);
     color: #333;
     line-height: 1.5;
