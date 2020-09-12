@@ -1,13 +1,11 @@
-@import url('https://rsms.me/inter/inter.css');
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto+Mono&display=swap');
 html {
-    font-family: Inter, 'Noto Sans JP', sans-serif;
+    font-family: sans-serif;
     padding: 2em calc(50% - 457px + 2em);
     color: #333;
     line-height: 1.5;
 }
 code {
-    font-family: Roboto Mono, monospace;
+    font-family: monospace;
     padding: .05em .3em;
     border-radius: .3em;
     background-color: #f0f0f0;
@@ -18,10 +16,8 @@ hr {
     border: none;
     margin-top: -1em;
 }
-h1, .lang {
-    text-align: center;
-}
 h1 {
+    text-align: center;
     font-size: 3em;
     color: #09f;
 }
